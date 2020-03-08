@@ -1,0 +1,5 @@
+venv/
+venv2/
+VOC2012/
+models/
+.idea/
